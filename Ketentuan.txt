@@ -1,0 +1,14 @@
+KETENTUAN UMUM
+1. Kelompok terdiri dari maksimal 4 orang.
+2. Anggota kelompok ditentukan secara acak. Penentuan anggota kelompok secara acak akan dilakukan di kemudian hari secara online.
+3. Setiap kelompok menentukan topik tertentu yang datanya akan dianalisis menggunakan supervised learning dan unsupervised learning.
+4. Setiap kelompok wajib menggunakan dua algoritma untuk melakukan analisis data, yaitu
+a. Supervised learning : regression atau classifi cation.
+b. Unsupervised learning : clustering.
+5. Menentukan objective dan menjelaskan business understanding terhadap topik yang diangkat.
+6. Melakukan dan menjelaskan tahapan data understanding (meliputi data exploration) berdasarkan kondisi data dan kebutuhan pemahaman dan analisis terhadap topik yang diangkat.
+7. Melakukan tahapan data preparation pada data yang digunakan sesuai dengan kebutuhan analisis.
+8. Membangun model dan mengevaluasi model tersebut sehingga dapat menjawab objective dari business understanding.
+9. Menampilkan hasil pengolahan data baik pada tahap data exploration, hasil implementasi algoritma maupun simulasi pengujian data baru ke dalam dashboard sederhana yang dibangun menggunakan streamlit.
+10. Menjelaskan hasil dan kesimpulan dari pembangunan model topik yang diangkat.
+11. Melampirkan link dataset, link dashboard dan link coding-an model yang sudah disimpan di github.
